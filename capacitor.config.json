@@ -1,0 +1,9 @@
+{
+  "appId": "com.example.sdclient",
+  "appName": "SD Client",
+  "webDir": "www",
+  "server": {
+    "cleartext": true,
+    "allowNavigation": ["*"]
+  }
+}
